@@ -1,0 +1,68 @@
+﻿<!DOCTYPE HTML>
+<html manifest="game_arcad_plain.appcache.txt">
+<head>
+    <title>Arcad</title>
+    <meta charset='utf-8' />
+
+    <style>
+        body {
+            background-color: gray;
+            color: white;
+            text-align: center;
+        }
+
+        canvas {
+            border: 5px solid silver;
+        }
+
+        table, th, td {
+            border: 2px solid darkblue;
+            text-align: center;
+        }
+
+        table {
+            margin-left: auto;
+            margin-right: auto;
+            width: 80%;
+        }
+
+        h3, pre {
+            margin: 40px;
+            text-align: left;
+        }
+
+    </style>
+
+    <script src="game_arcad_plain_main.js"></script>
+    <script src="game_arcad_plain_config.js"></script>
+    <script src="game_arcad_plain_model.js"></script>
+    <script src="game_arcad_plain_canva.js"></script>
+    <script src="game_arcad_plain_lang.js"></script>
+    <script src="game_arcad_plain_ui.js"></script>
+
+</head>
+
+<body onload="APELSERG.MAIN.OnLoad()">
+
+    ARCAD
+
+    <input id="APELSERG_InputSettings" type='button' value='' onclick='APELSERG.UI.ShowSettings();' />
+    <input id="APELSERG_InputPoints" type='button' value='' onclick='APELSERG.UI.ShowPoints();' />
+    <input id="APELSERG_InputHelp" type='button' value='' onclick='APELSERG.UI.ShowHelp();' />
+
+    <hr />
+
+    <div id='APELSERG_DivSettings'></div>
+    <div id='APELSERG_DivPoints'></div>
+    <div id='APELSERG_DivHelp'></div>
+
+    <div id='APELSERG_DivCanvas'>
+        <canvas id="APELSERG_CanvasArcad"></canvas>
+    </div>
+
+    <hr />
+
+    apelserg 2015
+
+</body>
+</html>

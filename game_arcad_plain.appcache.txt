@@ -1,0 +1,21 @@
+﻿CACHE MANIFEST
+# Ver 0.1.0
+# 001
+
+
+CACHE:
+
+game_arcad_plain.htm
+game_arcad_plain_canva.js
+game_arcad_plain_config.js
+game_arcad_plain_lang.js
+game_arcad_plain_main.js
+game_arcad_plain_model.js
+game_arcad_plain_ui.js
+
+
+NETWORK:
+
+*
+
+FALLBACK:
