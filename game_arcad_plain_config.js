@@ -1,4 +1,9 @@
-﻿"use strict";
+﻿// ============================
+// Разработчик: apelserg ; https://github.com/apelserg/
+// Лицензия: WTFPL
+// ============================
+
+"use strict";
 
 APELSERG.CONFIG.SET.Version = "0-1-0"
 APELSERG.CONFIG.SET.LocalStorageName = "APELSERG-ArcadPlain";
