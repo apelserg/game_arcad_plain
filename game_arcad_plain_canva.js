@@ -34,7 +34,7 @@ APELSERG.CANVA.CourtRewrite = function () {
     //-- Плитки
     //--
     var tiles = APELSERG.CONFIG.PROC.Tiles;
-    for (var n = 0 in tiles) {
+    for (var n in tiles) {
         APELSERG.CANVA.TileRewrite(ctx, tiles[n]);
     }
 

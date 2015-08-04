@@ -131,7 +131,7 @@ APELSERG.CONFIG.SetResult = function () {
         while (true) {
             var maxValue = 0;
             var maxIdx = -1;
-            for (var n = 0 in APELSERG.CONFIG.RESULT.Best) {
+            for (var n in APELSERG.CONFIG.RESULT.Best) {
                 if (APELSERG.CONFIG.RESULT.Best[n] !== undefined) {
                     if (APELSERG.CONFIG.RESULT.Best[n].Points >= maxValue) {
                         maxValue = APELSERG.CONFIG.RESULT.Best[n].Points;
