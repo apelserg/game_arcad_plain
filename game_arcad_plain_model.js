@@ -196,7 +196,7 @@ APELSERG.MODEL.TileBallKickback = function () {
     var ball = APELSERG.CONFIG.PROC.Ball;
     var tiles = APELSERG.MAIN.CloneObj(APELSERG.CONFIG.PROC.Tiles);
 
-    for (var n = 0 in tiles) {
+    for (var n in tiles) {
 
         var tile = tiles[n];
 
