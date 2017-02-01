@@ -1,14 +1,20 @@
 ﻿Игра Arcad (демо к публикации)
 
+
 Показан механизм применения модели для задачи анимации на Canvas
 
-Демо: http://apelserg.github.io/game_arcad_plain/
+Статья (Моделирование объектов для анимации на Canvas): http://habrahabr.ru/post/259465/
+
+
+Демо: http://apelserg.github.io/game_arcad_plain/game_arcad_plain.htm
+
 Обновлено: http://apelserg.github.io/game-arcs-42/game-arcs-42.htm
 
+
 Демо: http://www.apelserg.ru/open-html5-games/game_arcad_plain/game_arcad_plain.htm
+
 Обновлено: http://www.apelserg.ru/open-html5-games/game-arcs-42/game-arcs-42.htm
 
-Статья (Моделирование объектов для анимации на Canvas): http://habrahabr.ru/post/259465/
 
 E-mail: apelserg@mail.ru
 
