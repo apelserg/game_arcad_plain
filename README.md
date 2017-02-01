@@ -6,9 +6,9 @@
 Статья (Моделирование объектов для анимации на Canvas): http://habrahabr.ru/post/259465/
 
 
-Демо: http://apelserg.github.io/game_arcad_plain/game_arcad_plain.htm
+Демо: http://apelserg.github.io/game_arcad_plain/
 
-Обновлено: http://apelserg.github.io/game-arcs-42/game-arcs-42.htm
+Обновлено: http://apelserg.github.io/game-arcs-42/
 
 
 Демо: http://www.apelserg.ru/open-html5-games/game_arcad_plain/game_arcad_plain.htm
