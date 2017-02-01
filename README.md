@@ -1,4 +1,4 @@
-﻿Игра Arcad (демо к публикации) Обновлено: https://github.com/apelserg/game-arcs-42)
+﻿Игра Arcad (демо к публикации) Обновлено: https://github.com/apelserg/game-arcs-42
 
 Показан механизм применения модели для задачи анимации на Canvas
 
